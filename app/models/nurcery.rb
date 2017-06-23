@@ -1,0 +1,2 @@
+class Nurcery < Activity
+end
